@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\Canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\Snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\Snake.cs",
+              "RelativeDocumentMoniker": "Snake.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\Snake.cs",
+              "RelativeToolTip": "Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:23:07.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-10T09:23:04.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:22:19.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Canvas.cs",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\Canvas.cs",
+              "RelativeDocumentMoniker": "Canvas.cs",
+              "ToolTip": "D:\\VisualStudioProjects\\\u0417\u0430 \u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Snake-main\\Canvas.cs",
+              "RelativeToolTip": "Canvas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:22:11.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
